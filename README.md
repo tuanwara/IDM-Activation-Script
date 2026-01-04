@@ -1,6 +1,6 @@
 # IDM Activation Script - Tuanwara Edition
 
-![IDM Activation Script Tuanwara Edition](https://img.shields.io/badge/Version-3.8-cyan?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) ![Theme](https://img.shields.io/badge/Theme-Cyber_Neon-magenta?style=for-the-badge)
+![IDM Activation Script Tuanwara Edition](https://img.shields.io/badge/Version-3.8-cyan?style=for-the-badge) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 A customized, futuristic version of the popular Windows batch script for activating Internet Download Manager (IDM). This edition features a **Cyber Neon** interface, optimized code, and error-free execution.
 
